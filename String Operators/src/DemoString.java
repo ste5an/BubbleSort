@@ -4,7 +4,7 @@ public class DemoString {
 
     public static void main(String[] args){
 
-        Student s1 = new Student(11,"Navin");
+        Student s1 = new Student(11,"Stepan");
         System.out.println(s1.toString());
 
     }
